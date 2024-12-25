@@ -4,4 +4,4 @@ Marketing - Mailchimp
 Tech - GitHub
 Design - Canva
 Finance - Excel
-Ops - Taskrabbit app :)
+Ops - AirTasker :)
