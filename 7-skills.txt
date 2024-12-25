@@ -1,4 +1,4 @@
-Sales - phone app
+Sales - RingEx
 BD - Docusign
 Marketing - Mailchimp
 Tech - GitHub
