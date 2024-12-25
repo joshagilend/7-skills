@@ -1,7 +1,8 @@
-Sales - RingEx
-BD - Docusign
-Marketing - Mailchimp
 Tech - GitHub
 Design - Canva
+BD - Docusign
+Marketing - Mailchimp
+Sales - RingEx
+*** WORST :)
+Ops - AirTasker
 Finance - Excel
-Ops - AirTasker :)
